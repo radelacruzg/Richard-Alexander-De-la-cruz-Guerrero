@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docencia on Richard De la cruz</title>
+    <link>/docencia/</link>
+    <description>Recent content in Docencia on Richard De la cruz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="/docencia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>animacion_de_funciones</title>
+      <link>/docencia/animacion_de_funciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docencia/animacion_de_funciones/</guid>
+      <description>Repaso de temás del bachillerato Sea \(n \neq 0\) un número natural y \(a \in \mathbb{R}\), entonces
+Factorización Diferencia de cuadrados: $x^2+4$ Esta ecuación nos ayuda a \(x^2+4\) \[ x-1 \]
+\[\begin{equation} x-1 \end{equation}\] Es posible obtner \[\begin{equation} x-1 \end{equation}\]
+  Límites de funciones Considere la función \(f: A \to B\). Decimos que para \(a \in A\), \(\lim\limits_{x \to a} f(x)=b\)
+x=seq(-3,3,length=100) y=seq(-3,3,length=100) parabola=function(x,y) x^2+y^2 z=outer(x, y, parabola) persp(x,y,z, theta = 30, phi=30, col=&amp;quot;orange&amp;quot;) x=seq(0,2*pi,length=100) plot(x,cos(x),type=&amp;quot;l&amp;quot;,col=&amp;quot;blue&amp;quot;,lwd=3, main=&amp;quot;Seno y Coseno&amp;quot;, xlab=&amp;quot;&amp;quot;, ylab=&amp;quot;&amp;quot;, las=1, col.</description>
+    </item>
+    
+    <item>
+      <title>Cálculo Diferencial</title>
+      <link>/docencia/calculodiferencial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docencia/calculodiferencial/</guid>
+      <description>Textos:
+1- Peter D. Lax and Maria Shea Terrell: Calculus With Applications, Undergraduate Texts in Mathematics book series (UTM), Springer, New York, NY, 2014. Free download book PDF
+2- David R. Guichard: Calculus. This book is licensed under the Creative Commons license. Free download book PDF
+3- Dale Hoffman: Contemporary calculus. This book is licensed under the Creative Commons license. Free download book PDF
+4- Francisco Javier Pérez González: Cálculo diferencial e integral de funciones de una variable real.</description>
+    </item>
+    
+  </channel>
+</rss>

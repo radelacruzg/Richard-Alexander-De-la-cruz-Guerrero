@@ -1,0 +1,67 @@
+---
+title: "animacion_de_funciones"
+showActions: false
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    code_folding: hide
+---
+<script src="//yihui.org/js/math-code.js"></script>
+<!-- Just one possible MathJax CDN below. You may use others. -->
+<script async
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
+## Repaso de temás del bachillerato
+Sea $n \neq 0$ un número natural y $a \in \mathbb{R}$, entonces 
+
+### Factorización
+
+**Diferencia de cuadrados:**
+`$x^2+4$`
+Esta ecuación `nos` ayuda a $x^2+4$
+$$ x-1 $$
+
+```{=latex}
+\begin{equation}
+x-1
+\end{equation}
+```
+
+Es posible obtner
+\begin{equation}
+x-1
+\end{equation}
+
+## Límites de funciones
+Considere la función $f: A \to B$. Decimos que para $a \in A$, $\lim\limits_{x \to a} f(x)=b$
+
+```{r echo=FALSE, animation.hook="gifski"}
+for (i in 1:2) {
+  pie(c(i %% 2, 6), col = c('red', 'yellow'), labels = NA)
+}
+```
+
+```{r}
+x=seq(-3,3,length=100)
+y=seq(-3,3,length=100)
+parabola=function(x,y) x^2+y^2
+z=outer(x, y, parabola)
+persp(x,y,z, theta = 30, phi=30, col="orange")
+```
+
+```{r}
+x=seq(0,2*pi,length=100)
+plot(x,cos(x),type="l",col="blue",lwd=3, main="Seno y Coseno", xlab="", ylab="", las=1, col.axis="red")
+lines(x,sin(x),col="green",lwd=3)
+```
+
+```{r echo=FALSE, animation.hook="gifski"}
+x=seq(0,2*pi,length=100)
+for (i in 1:5){
+  x=seq(0,2*i*pi,length=100)
+plot(x,cos(x),type="l",col="blue",lwd=3, main="Función Coseno", xlab="", ylab="", las=1, col.axis="red")
+}
+```

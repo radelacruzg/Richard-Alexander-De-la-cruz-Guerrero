@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard De la cruz</title>
+    <link>/</link>
+    <description>Recent content on Richard De la cruz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/presentaciones/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/presentaciones/</guid>
+      <description>Presentaciones  Ponencia: Riemann problem and delta shock wave solution. International Conference on Applied Mathematics and Informatics - ICAMI 2017, San Andres Isla, Colombia, 2017. Ponencia: Delta shock wave for some hyperbolic systems of conservation laws. XI EMED- Décimo Primeiro Encontro Mineiro de Equaçõoes Diferenciais, Poços de Caldas, MG, Brazil, 2017. Seminario: Riemann problem and Delta shock wave solution for a system of conservation laws. Semminar Colóoquio 2017, Departamento de Matemática - Universidade Federal de São Carlos UFSCar, São Carlos SP, Brazil, 2017.</description>
+    </item>
+    
+    <item>
+      <title>Richard De la cruz</title>
+      <link>/about/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Profesor Asociado de la Universidad Pedagógica y Tecnológica de Colombia.
+Coordinador de posgrados del área de Matemáticas de la Facultad de Ciencias de la Universidad Pedagógica y Tecnológica de Colombia, Marzo de 2018 a la fecha.
+Director de la Escuela de Matemáticas y Estadística de la Universidad Pedagógica y Tecnológica de Colombia, agosto de 2015 a marzo de 2017.
+Formación:  Doctor en Ciencias Matemáticas de la Universidad Nacional de Colombia Posdoctorado en Matemáticas en el Instituto de Matemáticas, Estadística y Computación Científica - IMECC de la Universidad Estadual de Campinas  Áreas de interés:  Análisis matemático Ecuaciones diferenciales parciales Análisis numérico  Dirección de trabajos de grado de pregrado  Claudia Orduz: Una introducción al espacio de funciones test, Escuela de Matemáticas y Estadística, Universidad Pedagógica y Tecnológica de Colombia, 2017.</description>
+    </item>
+    
+    <item>
+      <title>Docencia</title>
+      <link>/docencia/</link>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docencia/</guid>
+      <description>Cálculo Diferencial - Ingeniería
+Álgebra Lineal - Maestría en Ciencias Matemáticas</description>
+    </item>
+    
+    <item>
+      <title>Publicaciones</title>
+      <link>/publicaciones/</link>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publicaciones/</guid>
+      <description>Artículos   R. De la cruz and M. Santos: Delta shock waves for a system of Keyfitz‐Kranzer type, Z Angew Math Mech. 99 (2019), e201700251. Download PDF
+  R. De la cruz, J.C. Juajibioy and L. Rendón: Generalized Riemann problem for a totally degenerate hyperbolic system, Electronic Journal of Differential Equations, Vol. 2018 (2018), No. 196, pp. 1–14. Download PDF
+  R. De la cruz, J.C. Juajibioy and L.</description>
+    </item>
+    
+    <item>
+      <title>animacion_de_funciones</title>
+      <link>/docencia/animacion_de_funciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docencia/animacion_de_funciones/</guid>
+      <description>Repaso de temás del bachillerato Sea \(n \neq 0\) un número natural y \(a \in \mathbb{R}\), entonces
+Factorización Diferencia de cuadrados: $x^2+4$ Esta ecuación nos ayuda a \(x^2+4\) \[ x-1 \]
+\[\begin{equation} x-1 \end{equation}\] Es posible obtner \[\begin{equation} x-1 \end{equation}\]
+  Límites de funciones Considere la función \(f: A \to B\). Decimos que para \(a \in A\), \(\lim\limits_{x \to a} f(x)=b\)
+x=seq(-3,3,length=100) y=seq(-3,3,length=100) parabola=function(x,y) x^2+y^2 z=outer(x, y, parabola) persp(x,y,z, theta = 30, phi=30, col=&amp;quot;orange&amp;quot;) x=seq(0,2*pi,length=100) plot(x,cos(x),type=&amp;quot;l&amp;quot;,col=&amp;quot;blue&amp;quot;,lwd=3, main=&amp;quot;Seno y Coseno&amp;quot;, xlab=&amp;quot;&amp;quot;, ylab=&amp;quot;&amp;quot;, las=1, col.</description>
+    </item>
+    
+    <item>
+      <title>Bienvenidos a este nuevo semestre académico</title>
+      <link>/1/01/bienvenidos-a-este-nuevo-semestre-acad%C3%A9mico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/bienvenidos-a-este-nuevo-semestre-acad%C3%A9mico/</guid>
+      <description> Foto: ICM 2018
+ </description>
+    </item>
+    
+    <item>
+      <title>Cálculo Diferencial</title>
+      <link>/docencia/calculodiferencial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docencia/calculodiferencial/</guid>
+      <description>Textos:
+1- Peter D. Lax and Maria Shea Terrell: Calculus With Applications, Undergraduate Texts in Mathematics book series (UTM), Springer, New York, NY, 2014. Free download book PDF
+2- David R. Guichard: Calculus. This book is licensed under the Creative Commons license. Free download book PDF
+3- Dale Hoffman: Contemporary calculus. This book is licensed under the Creative Commons license. Free download book PDF
+4- Francisco Javier Pérez González: Cálculo diferencial e integral de funciones de una variable real.</description>
+    </item>
+    
+  </channel>
+</rss>

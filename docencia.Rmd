@@ -1,0 +1,10 @@
+---
+title: "Docencia"
+date: "2020-01-18"
+author: "Richard De la cruz"
+showActions: false
+---
+
+[Cálculo Diferencial - Ingeniería](/docencia/calculodiferencial)
+
+`Álgebra Lineal - Maestría en Ciencias Matemáticas`

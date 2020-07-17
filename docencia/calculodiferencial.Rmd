@@ -1,0 +1,35 @@
+---
+title: "Cálculo Diferencial"
+showActions: false
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    code_folding: hide
+---
+<script src="//yihui.org/js/math-code.js"></script>
+<!-- Just one possible MathJax CDN below. You may use others. -->
+<script async
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+*Textos:*
+
+1- Peter D. Lax and Maria Shea Terrell: `Calculus With Applications`, Undergraduate Texts in Mathematics book series (UTM), Springer, New York, NY, 2014.
+[Free download book PDF](https://link.springer.com/book/10.1007%2F978-1-4614-7946-8)
+
+2- David R. Guichard: `Calculus`. This book is licensed under the Creative Commons license. [Free download book PDF](https://www.whitman.edu/mathematics/california_calculus/calculus.pdf)
+
+3- Dale Hoffman: `Contemporary calculus`. This book is licensed under the Creative Commons license. [Free download book PDF](http://www.contemporarycalculus.com/cc/hoffman_calculus_ch0_to_ch3.pdf)
+
+4- Francisco Javier Pérez González: `Cálculo diferencial e integral de funciones de una variable real`. This book is licensed under the Creative Commons license. [Free download book PDF](https://www.ugr.es/~fjperez/textos/calculo_diferencial_integral_func_una_var.pdf)
+
+# *Contenido del curso*
+## Números reales
+## Funciones de variable real
+## Límites y continuidad
+## Derivada
+## Aplicaciones de la derivada
+
+
+
